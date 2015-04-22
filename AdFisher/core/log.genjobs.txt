@@ -1,0 +1,52 @@
+config||2||2
+treatnames||female||male
+assign||0||1||0
+2015-03-26 03:55:39.947235||browserStarted||0||1
+2015-03-26 03:55:39.947320||training-start||1
+2015-03-26 03:55:40.038584||browserStarted||1||0
+2015-03-26 03:55:40.038669||training-start||0
+2015-03-26 03:55:43.538550||optedIn||0||1
+2015-03-26 03:55:43.669058||optedIn||1||0
+2015-03-26 03:55:48.510571||setGender=f||0||1
+2015-03-26 03:55:48.653284||setGender=m||1||0
+2015-03-26 03:55:56.179533||http://indeed.com||0||1
+2015-03-26 03:55:56.255448||http://indeed.com||1||0
+2015-03-26 03:56:05.398515||http://monster.com||1||0
+2015-03-26 03:56:05.736106||http://monster.com||0||1
+2015-03-26 03:56:14.731246||http://careerbuilder.com||0||1
+2015-03-26 03:56:17.112123||http://careerbuilder.com||1||0
+2015-03-26 03:56:21.816083||http://jobsearch.about.com||0||1
+2015-03-26 03:56:25.676134||http://jobsearch.about.com||1||0
+2015-03-26 03:56:29.361038||http://snagajob.com||0||1
+2015-03-26 03:56:31.363309||training-end||1
+2015-03-26 03:56:32.769047||http://snagajob.com||1||0
+2015-03-26 03:56:34.771271||training-end||0
+2015-03-26 03:56:59.791972||measurement-start||0
+2015-03-26 03:57:01.398156||measurement-start||1
+2015-03-26 03:57:06.404094||errorcollecting||1
+2015-03-26 03:57:11.407101||errorcollecting||1
+ad||0||1||2015-03-26 03:57:15.108083||Metromile Auto Insurance||www.metromile.com||Car Insurance Based On Driven Miles Not Driving Behavior. Start Quote!
+2015-03-26 03:57:16.412516||errorcollecting||1
+ad||0||1||2015-03-26 03:57:15.108083||Family Dollar Application||familydollar.yourcareergenie.com||Find Local Family Dollar Jobs Fast. Hiring now. Apply Online Today!
+2015-03-26 03:57:16.821762||loadtime||0:00:12.024424||0
+2015-03-26 03:57:16.821802||reload||0
+2015-03-26 03:57:21.418065||errorcollecting||1
+2015-03-26 03:57:26.423849||errorcollecting||1
+2015-03-26 03:57:31.428424||errorcollecting||1
+ad||0||1||2015-03-26 03:57:32.236059||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-26 03:57:32.236059||Metromile Auto Insurance||www.metromile.com||Car Insurance Based On Driven Miles Not Driving Behavior. Start Quote!
+2015-03-26 03:57:34.173768||loadtime||0:00:12.350449||0
+2015-03-26 03:57:34.173828||reload||0
+2015-03-26 03:57:36.429413||errorcollecting||1
+2015-03-26 03:57:41.433281||errorcollecting||1
+2015-03-26 03:57:46.439032||errorcollecting||1
+2015-03-26 03:57:51.444381||errorcollecting||1
+2015-03-26 03:57:51.444503||measurement-end||1
+ad||0||1||2015-03-26 03:57:49.644067||Metromile Auto Insurance||www.metromile.com||Car Insurance Based On Driven Miles Not Driving Behavior. Start Quote!
+ad||0||1||2015-03-26 03:57:49.644067||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-26 03:57:52.445937||loadtime||0:00:13.266950||0
+2015-03-26 03:57:52.445980||reload||0
+ad||0||1||2015-03-26 03:58:07.788100||EntertainmentCareers.Net||www.entertainmentcareers.net||Entertainment Jobs and Internships Film, TV, Music, Studios, Networks
+ad||0||1||2015-03-26 03:58:07.788100||Tummy Tuck Special||www.shapespokane.com||Receive $1,375 off liposuction with purchase of tummy tuck.
+2015-03-26 03:58:10.270911||loadtime||0:00:12.820227||0
+2015-03-26 03:58:10.270952||reload||0

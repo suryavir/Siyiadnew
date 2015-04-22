@@ -1,0 +1,128 @@
+config||2||2
+treatnames||optin-cars||optin-cars-optout
+assign||0||1||0
+2015-03-18 17:09:32.613706||browserStarted||0||1
+2015-03-18 17:09:32.614923||training-start||1
+2015-03-18 17:09:32.631889||browserStarted||1||0
+2015-03-18 17:09:32.632749||training-start||0
+2015-03-18 17:09:41.216253||optedIn||1||0
+2015-03-18 17:09:41.381378||optedIn||0||1
+2015-03-18 17:09:51.538871||http://passwordjdm.com||0||1
+2015-03-18 17:09:51.869579||http://passwordjdm.com||1||0
+2015-03-18 17:10:01.990384||http://automall.com||1||0
+2015-03-18 17:10:04.686360||http://automall.com||0||1
+2015-03-18 17:10:11.257978||http://australianmusclecarsales.com.au||1||0
+2015-03-18 17:10:16.043185||http://australianmusclecarsales.com.au||0||1
+2015-03-18 17:10:16.574622||http://autosearcher.com||1||0
+2015-03-18 17:10:21.412101||http://autosearcher.com||0||1
+2015-03-18 17:10:23.277403||http://prostreetonline.com||1||0
+2015-03-18 17:10:27.768773||http://prostreetonline.com||0||1
+2015-03-18 17:10:29.770920||training-end||1
+2015-03-18 17:10:36.381825||optedOut||1||0
+2015-03-18 17:10:38.383960||training-end||0
+2015-03-18 17:11:03.388331||measurement-start||0
+2015-03-18 17:11:04.776808||measurement-start||1
+2015-03-18 17:11:13.524413||age||0||Unknown||1
+2015-03-18 17:11:23.778995||gender||0||Unknown||1
+2015-03-18 17:11:25.149139||age||1||Error reading||0
+2015-03-18 17:11:35.608698||language||0||None||1
+2015-03-18 17:11:48.536247||gender||1||Error reading||0
+2015-03-18 17:11:49.923383||pref||0||Auto Financing@Autos &amp; Vehicles@Classic Vehicles@Credit &amp; Lending@Ford@Honda@Vehicle Parts &amp; Accessories@Vehicle Shopping||1
+ad||1||0||2015-03-18 17:11:55.332654||LulzBot Mini 3D Printer||lulzbot.com||3D printing, made easy. Shipping now!
+ad||1||0||2015-03-18 17:11:55.332654||USA Made 3D Filament||www.makergeeks.com||PLA  ABS on sale today $27.95/KG Save 10% +Free Shipping code HOT10
+ad||1||0||2015-03-18 17:11:55.332654||Technology Relocation||align.com/success||Align helped Russell Reynolds grow their IT infrastructure - Read how!
+2015-03-18 17:12:12.910005||loadtime||0:00:17.984022||1
+2015-03-18 17:12:12.911330||reload||1
+2015-03-18 17:12:13.505493||language||1||Error reading||0
+ad||1||0||2015-03-18 17:12:18.339872||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||1||0||2015-03-18 17:12:18.339872||The Greatest Penny Stocks||www.pennypicks.net||Get free daily penny stock alerts. Join now. New pick out soon.
+ad||1||0||2015-03-18 17:12:18.339872||Concealed Carry Guide||usconcealedcarry.net||Do You Know Your Rights? Get Your Free Concealed Carry Guide Today!
+2015-03-18 17:12:38.071468||loadtime||0:00:20.156633||1
+2015-03-18 17:12:38.072763||reload||1
+2015-03-18 17:12:40.384960||pref||1||||0
+ad||0||1||2015-03-18 17:12:45.818848||Is It Really Over?||thebreakupdoctor.com/WatchVideo||7 Dangerous Mistakes Most People Make after a Break Up. Avoid these.
+ad||0||1||2015-03-18 17:12:45.818848||IEEE - Official Site||ieee.org/50OffMembership||Association Of Engineers. 50% Off Membership When You Join Today!
+ad||0||1||2015-03-18 17:12:45.818848||Man Cheats Credit Score||www.thecreditsolutionprogram.com||1 simple trick  my credit score jumped 217 pts. Banks hate this!
+2015-03-18 17:13:05.593615||loadtime||0:00:20.205419||0
+2015-03-18 17:13:05.595103||reload||0
+ad||1||0||2015-03-18 17:12:46.152538||LulzBot Mini 3D Printer||lulzbot.com||3D printing, made easy. Shipping now!
+ad||1||0||2015-03-18 17:12:46.152538||USA Made 3D Filament||www.makergeeks.com||PLA  ABS on sale today $27.95/KG Save 10% +Free Shipping code HOT10
+ad||1||0||2015-03-18 17:12:46.152538||Technology Relocation||align.com/success||Align helped Russell Reynolds grow their IT infrastructure - Read how!
+2015-03-18 17:13:09.635139||loadtime||0:00:26.560840||1
+2015-03-18 17:13:09.637120||reload||1
+ad||0||1||2015-03-18 17:13:11.240520||Is It Really Over?||thebreakupdoctor.com/WatchVideo||7 Dangerous Mistakes Most People Make after a Break Up. Avoid these.
+ad||0||1||2015-03-18 17:13:11.240520||Green Rest/Piicnic Suppls||www.bgreentoday.com||Case/Sleeve Pricing Free Samples Plates, Cutlery, Clams Cups, Soup
+ad||0||1||2015-03-18 17:13:11.240520||Free Sample Cover Letter||cover-letter-now.com||Expert Written Cover Letters for Tons of Jobs. Helpful Tips  More.
+2015-03-18 17:13:34.172612||loadtime||0:00:23.575636||0
+2015-03-18 17:13:34.176067||reload||0
+ad||1||0||2015-03-18 17:13:15.424659||Social Media Consultants||www.badrhinoinc.com||Bad Rhino Develops Unique Social Media Strategies That Work
+ad||1||0||2015-03-18 17:13:15.424659||Question about taxes?||www.cunninghamstauring.com||You should talk to the experts Cunningham Stauring  Assoc
+ad||1||0||2015-03-18 17:13:15.424659||Wiss FWRD||www.wiss.com/fwrd||Outsourced accounting with an inside edge
+2015-03-18 17:13:39.063282||loadtime||0:00:24.417606||1
+2015-03-18 17:13:39.065040||reload||1
+ad||0||1||2015-03-18 17:13:40.181676||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||0||1||2015-03-18 17:13:40.181676||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-18 17:13:40.181676||10 Stocks to Hold Forever||www.streetauthority.com||Buy them. Forget about them. Watch them grow. Collect big dividends.
+2015-03-18 17:14:05.732505||loadtime||0:00:26.552751||0
+2015-03-18 17:14:05.735690||reload||0
+ad||1||0||2015-03-18 17:13:44.766958||Is It Really Over?||thebreakupdoctor.com/WatchVideo||7 Dangerous Mistakes Most People Make after a Break Up. Avoid these.
+ad||1||0||2015-03-18 17:13:44.766958||School Security||tycois.com/Commercial-Security||Download "10 Steps Toward A Safer Campus" From TycoIS Today!
+ad||1||0||2015-03-18 17:13:44.766958||The Greatest Penny Stocks||www.pennypicks.net||Get free daily penny stock alerts. Join now. New pick out soon.
+2015-03-18 17:14:10.732814||loadtime||0:00:26.664827||1
+2015-03-18 17:14:10.734689||reload||1
+ad||0||1||2015-03-18 17:14:11.773156||Remote Monitoring||trials.controlnow.com/free-trial||Manage Servers, Laptops,  More On  Off The Network. Try It Free!
+ad||0||1||2015-03-18 17:14:11.773156||LulzBot Mini 3D Printer||lulzbot.com||3D printing, made easy. Shipping now!
+ad||0||1||2015-03-18 17:14:11.773156||Technology Relocation||align.com/success||Align helped Russell Reynolds grow their IT infrastructure - Read how!
+2015-03-18 17:14:35.897834||loadtime||0:00:25.158045||0
+2015-03-18 17:14:35.900144||reload||0
+ad||1||0||2015-03-18 17:14:16.587511||Is It Really Over?||thebreakupdoctor.com/WatchVideo||7 Dangerous Mistakes Most People Make after a Break Up. Avoid these.
+ad||1||0||2015-03-18 17:14:16.587511||School Security||tycois.com/Commercial-Security||Download "10 Steps Toward A Safer Campus" From TycoIS Today!
+ad||1||0||2015-03-18 17:14:16.587511||The Greatest Penny Stocks||www.pennypicks.net||Get free daily penny stock alerts. Join now. New pick out soon.
+2015-03-18 17:14:42.812380||loadtime||0:00:27.075177||1
+2015-03-18 17:14:42.816113||reload||1
+2015-03-18 17:15:10.518198||loadtime||0:00:22.697666||1
+2015-03-18 17:15:10.521019||reload||1
+ad||0||1||2015-03-18 17:14:41.879183||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||0||1||2015-03-18 17:14:41.879183||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-18 17:14:41.879183||10 Stocks to Hold Forever||www.streetauthority.com||Buy them, forget about them, and never sell them.
+2015-03-18 17:15:27.393674||loadtime||0:00:46.490824||0
+2015-03-18 17:15:27.395751||reload||0
+ad||1||0||2015-03-18 17:15:16.793849||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||1||0||2015-03-18 17:15:16.793849||Purchase Order Financing||abingtonemersoncapital.com||50k Min. Easy to Apply, Poor Cash Flow No credit? No problem!
+ad||1||0||2015-03-18 17:15:16.793849||Concealed Carry Guide||usconcealedcarry.net||Do You Know Your Rights? Get Your Free Concealed Carry Guide Today!
+2015-03-18 17:15:39.218694||loadtime||0:00:23.692716||1
+2015-03-18 17:15:39.222091||reload||1
+ad||0||1||2015-03-18 17:15:33.420485||Free Sample Cover Letter||cover-letter-now.com||Expert Written Cover Letters for Tons of Jobs. Helpful Tips  More.
+ad||0||1||2015-03-18 17:15:33.420485||Emotional Intelligence||corporatetrainingmaterials.com||Workshop materials to teach Emotional Intelligence skills.
+ad||0||1||2015-03-18 17:15:33.420485||9 Best Stocks to Own Now||www.dailytradealert.com||Here's a list of recommendations that several top analysts agree on
+2015-03-18 17:15:52.877365||loadtime||0:00:20.478097||0
+2015-03-18 17:15:52.879618||reload||0
+2015-03-18 17:16:09.654207||loadtime||0:00:25.428718||1
+2015-03-18 17:16:09.657727||reload||1
+ad||0||1||2015-03-18 17:15:58.539593||Remote Monitoring||trials.controlnow.com/free-trial||Manage Servers, Laptops,  More On  Off The Network. Try It Free!
+ad||0||1||2015-03-18 17:15:58.539593||Big Data Technology||intel.com/BigData||Intel Delivers Technology Built to Scale Your Big Data Challenges.
+ad||0||1||2015-03-18 17:15:58.539593||LulzBot Mini 3D Printer||lulzbot.com||3D printing, made easy. Shipping now!
+2015-03-18 17:16:17.524304||loadtime||0:00:19.641721||0
+2015-03-18 17:16:17.527152||reload||0
+ad||1||0||2015-03-18 17:16:15.606473||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||1||0||2015-03-18 17:16:15.606473||Purchase Order Financing||abingtonemersoncapital.com||50k Min. Easy to Apply, Poor Cash Flow No credit? No problem!
+ad||1||0||2015-03-18 17:16:15.606473||Double Double the book||www.cameronherold.com||Double your revenue and profit in 3 years or less.
+2015-03-18 17:16:36.952006||loadtime||0:00:22.291147||1
+2015-03-18 17:16:36.954603||reload||1
+2015-03-18 17:16:36.957373||measurement-end||1
+ad||0||1||2015-03-18 17:16:23.152477||Is It Really Over?||thebreakupdoctor.com/WatchVideo||7 Dangerous Mistakes Most People Make after a Break Up. Avoid these.
+ad||0||1||2015-03-18 17:16:23.152477||IEEE - Official Site||ieee.org/50OffMembership||Association Of Engineers. 50% Off Membership When You Join Today!
+ad||0||1||2015-03-18 17:16:23.152477||Apply for Disability||www.disability-benefits-help.org||Are you eligible for up to $2642/mo in Social Security Disability?
+2015-03-18 17:16:46.558563||loadtime||0:00:24.027215||0
+2015-03-18 17:16:46.561765||reload||0
+ad||0||1||2015-03-18 17:16:52.265563||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||0||1||2015-03-18 17:16:52.265563||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-18 17:16:52.265563||10 Stocks to Hold Forever||www.streetauthority.com||Buy them. Forget about them. Watch them grow. Collect big dividends.
+2015-03-18 17:17:10.156047||loadtime||0:00:18.588565||0
+2015-03-18 17:17:10.158830||reload||0
+ad||0||1||2015-03-18 17:17:15.828267||6 Nations Rugy||broadband.premiumsports.tv||Catch All the Games $129 for all the games
+ad||0||1||2015-03-18 17:17:15.828267||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-18 17:17:15.828267||10 Stocks to Hold Forever||www.streetauthority.com||Buy them, forget about them, and never sell them.
+2015-03-18 17:17:36.957278||loadtime||0:00:21.793103||0
+2015-03-18 17:17:36.960599||reload||0
+2015-03-18 17:17:36.963979||measurement-end||0

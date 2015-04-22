@@ -1,0 +1,527 @@
+config||2||2
+treatnames||female||male
+assign||0||1||0
+2015-03-25 19:08:52.169854||browserStarted||1||0
+2015-03-25 19:08:52.171763||training-start||0
+2015-03-25 19:08:52.190510||browserStarted||0||1
+2015-03-25 19:08:52.191118||training-start||1
+2015-03-25 19:08:59.814723||optedIn||0||1
+2015-03-25 19:08:59.867878||optedIn||1||0
+2015-03-25 19:09:08.038136||setGender=f||0||1
+2015-03-25 19:09:08.131016||setGender=m||1||0
+2015-03-25 19:09:16.228890||http://indeed.com||0||1
+2015-03-25 19:09:16.321928||http://indeed.com||1||0
+2015-03-25 19:09:25.259549||http://monster.com||0||1
+2015-03-25 19:09:28.672364||http://monster.com||1||0
+2015-03-25 19:09:35.237215||http://careerbuilder.com||0||1
+2015-03-25 19:09:39.102800||http://careerbuilder.com||1||0
+2015-03-25 19:09:47.162922||http://jobsearch.about.com||0||1
+2015-03-25 19:09:50.137709||http://jobsearch.about.com||1||0
+2015-03-25 19:10:02.579698||http://snagajob.com||0||1
+2015-03-25 19:10:04.582174||training-end||1
+2015-03-25 19:10:05.035076||http://snagajob.com||1||0
+2015-03-25 19:10:07.037572||training-end||0
+2015-03-25 19:10:32.042355||measurement-start||0
+2015-03-25 19:10:34.588510||measurement-start||1
+ad||0||1||2015-03-25 19:10:48.924277||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:10:48.924277||Travel PT Jobs||medtravelers.com||Find Travel Physical Therapy Jobs. Great Pay, Benefits and Locations
+2015-03-25 19:11:02.869262||loadtime||0:00:25.823898||0
+2015-03-25 19:11:02.870827||reload||0
+ad||1||0||2015-03-25 19:10:51.658070||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:11:04.977391||loadtime||0:00:25.386932||1
+2015-03-25 19:11:04.979572||reload||1
+ad||1||0||2015-03-25 19:11:23.017481||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:11:32.153842||loadtime||0:00:22.171339||1
+2015-03-25 19:11:32.155116||reload||1
+ad||0||1||2015-03-25 19:11:20.933903||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:11:20.933903||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+2015-03-25 19:11:35.344761||loadtime||0:00:27.471758||0
+2015-03-25 19:11:35.346505||reload||0
+ad||1||0||2015-03-25 19:11:52.011221||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+ad||0||1||2015-03-25 19:11:54.098963||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:11:54.098963||Travel PT Jobs||medtravelers.com||Find Travel Physical Therapy Jobs. Great Pay, Benefits and Locations
+2015-03-25 19:12:00.068683||loadtime||0:00:19.719391||0
+2015-03-25 19:12:00.071380||reload||0
+2015-03-25 19:12:00.928159||loadtime||0:00:23.770682||1
+2015-03-25 19:12:00.929859||reload||1
+ad||0||1||2015-03-25 19:12:19.229493||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:12:19.229493||Business Plan Template||businessplantemplate.growthink.com||With My Fill-In-The-Blanks Template Personalize, Print  You're Done!
+ad||1||0||2015-03-25 19:12:18.863314||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:12:33.513345||loadtime||0:00:28.438777||0
+2015-03-25 19:12:33.515192||reload||0
+2015-03-25 19:12:33.676191||loadtime||0:00:27.743429||1
+2015-03-25 19:12:33.677929||reload||1
+ad||1||0||2015-03-25 19:12:52.293925||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:12:57.184764||loadtime||0:00:18.503030||1
+2015-03-25 19:12:57.188384||reload||1
+ad||0||1||2015-03-25 19:12:51.789614||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:12:51.789614||Travel PT Jobs||medtravelers.com||Find Travel Physical Therapy Jobs. Great Pay, Benefits and Locations
+2015-03-25 19:13:04.997276||loadtime||0:00:26.479047||0
+2015-03-25 19:13:04.999045||reload||0
+ad||1||0||2015-03-25 19:13:13.487201||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+ad||1||0||2015-03-25 19:13:13.487201||500 Business Cards $8.50||gotprint.net/BusinessCards||Order Custom Color Business Cards 100% Satisfaction Guaranteed!
+2015-03-25 19:13:30.459176||loadtime||0:00:28.266257||1
+2015-03-25 19:13:30.461808||reload||1
+ad||0||1||2015-03-25 19:13:23.585766||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:13:23.585766||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+2015-03-25 19:13:38.599858||loadtime||0:00:28.597761||0
+2015-03-25 19:13:38.601861||reload||0
+ad||1||0||2015-03-25 19:13:49.304578||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:14:03.538888||loadtime||0:00:28.069803||1
+2015-03-25 19:14:03.542334||reload||1
+ad||0||1||2015-03-25 19:13:57.316133||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:13:57.316133||Travel PT Jobs||medtravelers.com||Find Travel Physical Therapy Jobs. Great Pay, Benefits and Locations
+2015-03-25 19:14:20.761864||loadtime||0:00:37.157301||0
+2015-03-25 19:14:20.764236||reload||0
+2015-03-25 19:14:37.002792||errorcollecting||1
+ad||0||1||2015-03-25 19:14:42.311349||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:14:42.311349||Business Plan Template||businessplantemplate.growthink.com||With My Fill-In-The-Blanks Template Personalize, Print  You're Done!
+2015-03-25 19:15:03.662830||loadtime||0:00:37.894852||0
+2015-03-25 19:15:03.665292||reload||0
+2015-03-25 19:15:04.600627||errorcollecting||1
+ad||0||1||2015-03-25 19:15:23.552755||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-25 19:15:23.552755||Physical Therapy Jobs||medtravelers.com||Great Locations, Benefits and Pay for Physical Therapist Assignments.
+2015-03-25 19:15:39.865962||loadtime||0:00:31.196219||0
+2015-03-25 19:15:39.867940||reload||0
+ad||1||0||2015-03-25 19:15:25.886269||New Social Network||Ads by Google||Create Private Tags with Video Create Private Groups
+2015-03-25 19:15:46.699796||loadtime||0:00:37.095555||1
+2015-03-25 19:15:46.702344||reload||1
+2015-03-25 19:15:46.705149||measurement-end||1
+ad||0||1||2015-03-25 19:15:59.350717||Work at Home - No Fee||weeklymarks.com||$37-$47/hr Real Work at home Job Requirements: Must Have Computer.
+ad||0||1||2015-03-25 19:15:59.350717||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:16:13.917945||loadtime||0:00:29.046663||0
+2015-03-25 19:16:13.920601||reload||0
+2015-03-25 19:16:13.923136||measurement-end||0
+assign||1||1||0
+2015-03-25 19:16:22.349549||browserStarted||1||0
+2015-03-25 19:16:22.352615||training-start||0
+2015-03-25 19:16:22.357325||browserStarted||0||1
+2015-03-25 19:16:22.361083||training-start||1
+2015-03-25 19:16:30.471941||optedIn||1||0
+2015-03-25 19:16:31.079463||optedIn||0||1
+2015-03-25 19:16:39.216310||setGender=m||1||0
+2015-03-25 19:16:39.933907||setGender=f||0||1
+2015-03-25 19:16:47.922705||http://indeed.com||1||0
+2015-03-25 19:16:48.396944||http://indeed.com||0||1
+2015-03-25 19:17:00.980513||http://monster.com||1||0
+2015-03-25 19:17:02.525215||http://monster.com||0||1
+2015-03-25 19:17:11.103004||http://careerbuilder.com||1||0
+2015-03-25 19:17:20.545417||http://jobsearch.about.com||1||0
+2015-03-25 19:17:24.102041||http://careerbuilder.com||0||1
+2015-03-25 19:17:32.820801||http://snagajob.com||1||0
+2015-03-25 19:17:34.825454||training-end||0
+2015-03-25 19:17:39.494838||http://jobsearch.about.com||0||1
+2015-03-25 19:17:58.176996||http://snagajob.com||0||1
+2015-03-25 19:18:00.181594||training-end||1
+2015-03-25 19:18:25.190958||measurement-start||1
+2015-03-25 19:18:29.850609||measurement-start||0
+ad||0||1||2015-03-25 19:18:51.802752||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:18:51.802752||Free Resume Templates||myperfectresume.com/Resume+Template||Build Your Perfect Resume for Free! Choose from Hundreds of Designs.
+2015-03-25 19:19:05.586567||loadtime||0:00:30.730050||0
+2015-03-25 19:19:05.591685||reload||0
+2015-03-25 19:19:11.416206||errorcollecting||1
+ad||0||1||2015-03-25 19:19:24.322020||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:19:24.322020||Call India for 0.6¢/min||www.phoneindia.com||Get 3300 Min with Monthly Plan. No Setup Fees. Instant Activation!
+2015-03-25 19:19:36.284247||loadtime||0:00:25.686562||0
+2015-03-25 19:19:36.288143||reload||0
+2015-03-25 19:19:52.152902||errorcollecting||1
+ad||0||1||2015-03-25 19:19:54.678916||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:19:54.678916||Call India for 0.6¢/min||www.phoneindia.com||Get 3300 Min with Monthly Plan. No Setup Fees. Instant Activation!
+2015-03-25 19:20:16.587761||loadtime||0:00:35.294578||0
+2015-03-25 19:20:16.592703||reload||0
+2015-03-25 19:20:20.349738||errorcollecting||1
+ad||0||1||2015-03-25 19:20:37.428973||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:20:37.428973||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:20:53.259440||loadtime||0:00:31.658129||0
+2015-03-25 19:20:53.263619||reload||0
+2015-03-25 19:21:16.013322||errorcollecting||1
+ad||0||1||2015-03-25 19:21:18.282865||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:21:18.282865||Call India for 0.6¢/min||www.phoneindia.com||Get 3300 Min with Monthly Plan. No Setup Fees. Instant Activation!
+2015-03-25 19:21:32.517882||loadtime||0:00:34.248714||0
+2015-03-25 19:21:32.521413||reload||0
+2015-03-25 19:21:57.419682||errorcollecting||1
+2015-03-25 19:22:17.232045||errorcollecting||1
+ad||0||1||2015-03-25 19:21:56.257056||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:21:56.257056||Call India for 0.6¢/min||www.phoneindia.com||Get 3300 Min with Monthly Plan. No Setup Fees. Instant Activation!
+2015-03-25 19:22:20.150641||loadtime||0:00:42.624883||0
+2015-03-25 19:22:20.154163||reload||0
+ad||0||1||2015-03-25 19:22:39.076958||500 Business Cards $8.50||gotprint.net/BusinessCards||Order Custom Color Business Cards 100% Satisfaction Guaranteed!
+ad||1||0||2015-03-25 19:22:50.243066||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||1||2015-03-25 19:22:39.076958||Call India Cheaper||www.phoneindia.com||Only 0.6¢/Min, No Fees, No Expiry. 100% Quality. Try Today  Save!
+2015-03-25 19:23:02.385162||loadtime||0:00:37.226018||0
+2015-03-25 19:23:02.388395||reload||0
+ad||1||0||2015-03-25 19:22:50.243066||GEICO Auto Insurance||www.geico.com||You could save 15% in minutes. Get your free quote now.
+2015-03-25 19:23:04.603635||loadtime||0:00:42.365921||1
+2015-03-25 19:23:04.609204||reload||1
+ad||0||1||2015-03-25 19:23:21.982859||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:23:21.982859||Best Dating Sites (2015)||www.consumer-rankings.com/Dating||You Won't Believe Who Ranked #1! Browse Our Best 5 Dating Sites Free
+2015-03-25 19:23:35.093726||errorcollecting||1
+2015-03-25 19:23:36.671802||loadtime||0:00:29.279246||0
+2015-03-25 19:23:36.676121||reload||0
+2015-03-25 19:24:09.361310||errorcollecting||1
+ad||0||1||2015-03-25 19:23:57.955850||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:23:57.955850||transparent bikinis||transparent-bikinis.best-price.com||best-price.com - comparison expert! best price for transparent bikinis
+2015-03-25 19:24:31.489434||loadtime||0:00:49.808539||0
+2015-03-25 19:24:31.496722||reload||0
+ad||1||0||2015-03-25 19:24:25.523607||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||1||0||2015-03-25 19:24:25.523607||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:24:41.275086||loadtime||0:00:26.908915||1
+2015-03-25 19:24:41.279071||reload||1
+2015-03-25 19:24:41.283362||measurement-end||1
+2015-03-25 19:25:11.185799||errorcollecting||0
+2015-03-25 19:25:11.190622||measurement-end||0
+assign||2||1||0
+2015-03-25 19:25:19.372776||browserStarted||1||0
+2015-03-25 19:25:19.376835||training-start||0
+2015-03-25 19:25:19.376849||browserStarted||0||1
+2015-03-25 19:25:19.381430||training-start||1
+2015-03-25 19:25:27.295826||optedIn||1||0
+2015-03-25 19:25:27.314944||optedIn||0||1
+2015-03-25 19:25:36.119986||setGender=f||0||1
+2015-03-25 19:25:36.648123||setGender=m||1||0
+2015-03-25 19:25:44.535802||http://indeed.com||0||1
+2015-03-25 19:25:45.047918||http://indeed.com||1||0
+2015-03-25 19:25:55.043980||http://monster.com||0||1
+2015-03-25 19:25:55.410267||http://monster.com||1||0
+2015-03-25 19:26:05.284082||http://careerbuilder.com||1||0
+2015-03-25 19:26:06.003600||http://careerbuilder.com||0||1
+2015-03-25 19:26:15.170733||http://jobsearch.about.com||1||0
+2015-03-25 19:26:16.016467||http://jobsearch.about.com||0||1
+2015-03-25 19:26:27.398519||http://snagajob.com||1||0
+2015-03-25 19:26:28.384682||http://snagajob.com||0||1
+2015-03-25 19:26:29.404363||training-end||0
+2015-03-25 19:26:30.391502||training-end||1
+2015-03-25 19:26:55.405162||measurement-start||1
+2015-03-25 19:26:59.419369||measurement-start||0
+ad||1||0||2015-03-25 19:27:12.274376||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:27:12.274376||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:27:17.152335||loadtime||0:00:16.739950||1
+2015-03-25 19:27:17.158884||reload||1
+ad||0||1||2015-03-25 19:27:16.383263||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:27:16.383263||Google Chromecast for $35||google.com/Chromecast||Enjoy online video  anything from the web on your TV. buy now!
+2015-03-25 19:27:29.570341||loadtime||0:00:25.144550||0
+2015-03-25 19:27:29.576014||reload||0
+ad||1||0||2015-03-25 19:27:36.077811||Free Resume Samples||resumehelp.com/FreeResumeSamples||Build a Resume for Free Here. Fast, Easy to Write, Free Resumes!
+ad||1||0||2015-03-25 19:27:36.077811||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:27:48.096576||loadtime||0:00:25.928558||1
+2015-03-25 19:27:48.101546||reload||1
+ad||0||1||2015-03-25 19:27:47.688332||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:27:47.688332||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+2015-03-25 19:27:59.450625||loadtime||0:00:24.867963||0
+2015-03-25 19:27:59.457658||reload||0
+ad||1||0||2015-03-25 19:28:05.914327||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:28:05.914327||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:28:12.130292||loadtime||0:00:19.022808||1
+2015-03-25 19:28:12.134598||reload||1
+ad||0||1||2015-03-25 19:28:17.500469||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:28:17.500469||Sample Job Descriptions||hr.blr.com/job_descriptions||Download 1000's of job descriptions Online state HR library. Save time!
+2015-03-25 19:28:30.199541||loadtime||0:00:25.731883||0
+2015-03-25 19:28:30.207923||reload||0
+ad||1||0||2015-03-25 19:28:28.388912||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:28:28.388912||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+2015-03-25 19:28:37.496804||loadtime||0:00:20.356313||1
+2015-03-25 19:28:37.507029||reload||1
+ad||0||1||2015-03-25 19:28:48.593932||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:28:48.593932||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:29:05.415753||loadtime||0:00:30.200772||0
+2015-03-25 19:29:05.422266||reload||0
+ad||1||0||2015-03-25 19:28:54.769573||Free Resume Samples||resumehelp.com/FreeResumeSamples||Build a Resume for Free Here. Fast, Easy to Write, Free Resumes!
+ad||1||0||2015-03-25 19:28:54.769573||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:29:14.533543||loadtime||0:00:32.019635||1
+2015-03-25 19:29:14.543524||reload||1
+ad||0||1||2015-03-25 19:29:24.881460||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||1||2015-03-25 19:29:24.881460||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:29:31.409514||loadtime||0:00:20.981952||0
+2015-03-25 19:29:31.415473||reload||0
+ad||1||0||2015-03-25 19:29:33.327752||Free Invoicing Templates||www.quickbooksonline.com||Familiar Forms Make Accounting Easy So You Can Save Time. Sign Up Free!
+ad||1||0||2015-03-25 19:29:33.327752||Free Bill of Sale Forms||onlineforms.lawdepot.com||Edit, Print and Download. Easily Create Your Own Bill of Sale
+2015-03-25 19:29:47.753963||loadtime||0:00:28.202439||1
+2015-03-25 19:29:47.758686||reload||1
+ad||0||1||2015-03-25 19:29:48.378975||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||1||2015-03-25 19:29:48.378975||Free Resume Templates||myperfectresume.com/Resume+Template||Build Your Perfect Resume for Free! Choose from Hundreds of Designs.
+2015-03-25 19:30:08.567992||loadtime||0:00:32.145493||0
+2015-03-25 19:30:08.574458||reload||0
+ad||1||0||2015-03-25 19:30:07.138811||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:30:07.138811||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:30:14.689923||loadtime||0:00:21.925620||1
+2015-03-25 19:30:14.695290||reload||1
+ad||0||1||2015-03-25 19:30:28.440735||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||1||0||2015-03-25 19:30:32.539127||Free Resume Samples||resumehelp.com/FreeResumeSamples||Build a Resume for Free Here. Fast, Easy to Write, Free Resumes!
+ad||1||0||2015-03-25 19:30:32.539127||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:30:52.776833||loadtime||0:00:33.075091||1
+2015-03-25 19:30:52.783283||reload||1
+ad||0||1||2015-03-25 19:30:28.440735||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+2015-03-25 19:31:07.825483||loadtime||0:00:54.244886||0
+2015-03-25 19:31:07.831696||reload||0
+ad||1||0||2015-03-25 19:31:13.294426||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:31:13.294426||Google Chromecast for $35||google.com/Chromecast||Enjoy online video  anything from the web on your TV. buy now!
+2015-03-25 19:31:34.830250||loadtime||0:00:37.040143||1
+2015-03-25 19:31:34.838135||reload||1
+ad||0||1||2015-03-25 19:31:29.036009||Free Clean Jokes||free.jokefanatic.com||Get 1000s of Clean Jokes for Free. Get the Joke Fanatic App Now!
+ad||0||1||2015-03-25 19:31:29.036009||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:31:51.387589||loadtime||0:00:38.548136||0
+2015-03-25 19:31:51.401383||reload||0
+ad||1||0||2015-03-25 19:31:51.280843||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:31:51.280843||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+2015-03-25 19:32:15.147786||loadtime||0:00:35.300029||1
+2015-03-25 19:32:15.155076||reload||1
+2015-03-25 19:32:15.162553||measurement-end||1
+ad||0||1||2015-03-25 19:32:11.592912||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||0||1||2015-03-25 19:32:11.592912||Free Clean Jokes||free.jokefanatic.com||Get 1000s of Clean Jokes for Free. Get the Joke Fanatic App Now!
+2015-03-25 19:32:20.610354||loadtime||0:00:24.202134||0
+2015-03-25 19:32:20.617482||reload||0
+2015-03-25 19:32:43.723552||errorcollecting||0
+2015-03-25 19:32:43.729099||measurement-end||0
+assign||3||1||0
+2015-03-25 19:32:52.626550||browserStarted||1||0
+2015-03-25 19:32:52.634127||training-start||0
+2015-03-25 19:32:52.646719||browserStarted||0||1
+2015-03-25 19:32:52.654242||training-start||1
+2015-03-25 19:33:00.512672||optedIn||1||0
+2015-03-25 19:33:01.083859||optedIn||0||1
+2015-03-25 19:33:08.964499||setGender=m||1||0
+2015-03-25 19:33:09.472733||setGender=f||0||1
+2015-03-25 19:33:17.313177||http://indeed.com||1||0
+2015-03-25 19:33:17.731694||http://indeed.com||0||1
+2015-03-25 19:33:26.911582||http://monster.com||1||0
+2015-03-25 19:33:33.115652||http://monster.com||0||1
+2015-03-25 19:33:36.866551||http://careerbuilder.com||1||0
+2015-03-25 19:33:44.285648||http://careerbuilder.com||0||1
+2015-03-25 19:33:46.854411||http://jobsearch.about.com||1||0
+2015-03-25 19:33:52.020289||http://snagajob.com||1||0
+2015-03-25 19:33:53.675830||http://jobsearch.about.com||0||1
+2015-03-25 19:33:54.028167||training-end||0
+2015-03-25 19:35:34.257707||http://snagajob.com||0||1
+2015-03-25 19:35:36.266933||training-end||1
+2015-03-25 19:36:01.283829||measurement-start||1
+2015-03-25 19:36:04.106335||measurement-start||0
+ad||0||1||2015-03-25 19:36:21.224403||Free Resume Templates||myperfectresume.com/Resume+Template||Build Your Perfect Resume for Free! Choose from Hundreds of Designs.
+ad||0||1||2015-03-25 19:36:21.224403||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:36:30.220353||loadtime||0:00:21.106213||0
+2015-03-25 19:36:30.230017||reload||0
+ad||1||0||2015-03-25 19:36:18.287135||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:36:18.287135||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:36:36.006041||loadtime||0:00:29.712936||1
+2015-03-25 19:36:36.013159||reload||1
+ad||0||1||2015-03-25 19:36:50.222846||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+ad||0||1||2015-03-25 19:36:50.222846||Google Chromecast for $35||google.com/Chromecast||Enjoy online video  anything from the web on your TV. buy now!
+2015-03-25 19:37:00.793555||loadtime||0:00:25.546501||0
+2015-03-25 19:37:00.801553||reload||0
+ad||1||0||2015-03-25 19:36:54.116604||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:36:54.116604||Low Income Cell Program||www.safelinkwireless.com||1000 Free Text/250 Free Minutes Every Month!
+2015-03-25 19:37:03.938324||loadtime||0:00:22.913167||1
+2015-03-25 19:37:03.946406||reload||1
+ad||1||0||2015-03-25 19:37:22.522620||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||0||1||2015-03-25 19:37:18.866023||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+ad||0||1||2015-03-25 19:37:18.866023||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:37:33.024771||loadtime||0:00:27.215416||0
+2015-03-25 19:37:33.032193||reload||0
+ad||1||0||2015-03-25 19:37:22.522620||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:37:37.591040||loadtime||0:00:28.635981||1
+2015-03-25 19:37:37.599338||reload||1
+ad||1||0||2015-03-25 19:37:56.068774||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||0||1||2015-03-25 19:37:51.691583||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:37:51.691583||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Portable Sanitation Solutions For Ithaca and Tompkins County
+2015-03-25 19:38:06.289876||loadtime||0:00:28.246395||0
+2015-03-25 19:38:06.298282||reload||0
+ad||1||0||2015-03-25 19:37:56.068774||Shop Women's Clothes||www.zulily.com||Up to 70% Off on Wholesale Women's Clothing. Shop Now!
+2015-03-25 19:38:12.221160||loadtime||0:00:29.613214||1
+2015-03-25 19:38:12.228646||reload||1
+ad||0||1||2015-03-25 19:38:25.296089||Physical Therapy Jobs||medtravelers.com||Great Locations, Benefits and Pay for Physical Therapist Assignments.
+ad||0||1||2015-03-25 19:38:25.296089||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Portable Sanitation Solutions For Ithaca and Tompkins County
+2015-03-25 19:38:38.329478||loadtime||0:00:27.024528||0
+2015-03-25 19:38:38.338045||reload||0
+ad||1||0||2015-03-25 19:38:31.327998||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:38:31.327998||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:38:46.189167||loadtime||0:00:28.948077||1
+2015-03-25 19:38:46.198125||reload||1
+ad||0||1||2015-03-25 19:39:01.455149||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+ad||0||1||2015-03-25 19:39:01.455149||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:39:09.143900||loadtime||0:00:25.793600||0
+2015-03-25 19:39:09.153702||reload||0
+ad||1||0||2015-03-25 19:39:05.561039||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:39:05.561039||Low Income Cell Program||www.safelinkwireless.com||1000 Free Text/250 Free Minutes Every Month!
+2015-03-25 19:39:20.553956||loadtime||0:00:29.347456||1
+2015-03-25 19:39:20.561669||reload||1
+ad||0||1||2015-03-25 19:39:28.190355||Get Coupon Codes Here||shoppingsavingshere.shopathome.com||Save Money w/Free Coupon Codes! Get Instant Savings  Coupons Here…
+ad||0||1||2015-03-25 19:39:28.190355||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+2015-03-25 19:39:42.129879||loadtime||0:00:27.963717||0
+2015-03-25 19:39:42.146443||reload||0
+ad||1||0||2015-03-25 19:39:41.141595||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:39:41.141595||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:39:57.424637||loadtime||0:00:31.854992||1
+2015-03-25 19:39:57.431537||reload||1
+ad||0||1||2015-03-25 19:40:01.360623||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:40:01.360623||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+2015-03-25 19:40:14.789989||loadtime||0:00:27.634067||0
+2015-03-25 19:40:14.798293||reload||0
+ad||1||0||2015-03-25 19:40:17.095600||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:40:17.095600||Dog Sitters Wanted||care.com/DogSitter||Create a sitter profile for free. Search jobs by location  pay rate.
+2015-03-25 19:40:32.996593||loadtime||0:00:30.553687||1
+2015-03-25 19:40:33.004927||reload||1
+ad||0||1||2015-03-25 19:40:34.116307||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:40:34.116307||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+2015-03-25 19:40:50.310463||loadtime||0:00:30.502791||0
+2015-03-25 19:40:50.319691||reload||0
+ad||1||0||2015-03-25 19:40:52.928331||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:40:52.928331||Sunday Paper Coupons||sundaypaper.shopathome.com||The Same Collection, Just Cheaper. Score Sunday Paper Coupons Free!
+2015-03-25 19:41:13.885082||loadtime||0:00:35.872247||1
+2015-03-25 19:41:13.905771||reload||1
+ad||0||1||2015-03-25 19:41:10.591758||Portable Toilet Rentals||thedrainbrain.com/PortableToilets||Standard Deluxe  Wheelchair Access Ithaca, Elmira and Tompkins County
+ad||0||1||2015-03-25 19:41:10.591758||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+2015-03-25 19:41:24.158369||loadtime||0:00:28.827303||0
+2015-03-25 19:41:24.166490||reload||0
+2015-03-25 19:41:24.175064||measurement-end||0
+ad||1||0||2015-03-25 19:41:35.401362||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||1||0||2015-03-25 19:41:35.401362||Sample Job Descriptions||hr.blr.com/job_descriptions||Download 1000's of job descriptions Online state HR library. Save time!
+2015-03-25 19:41:54.701366||loadtime||0:00:35.783001||1
+2015-03-25 19:41:54.710047||reload||1
+2015-03-25 19:41:54.718907||measurement-end||1
+assign||4||0||1
+2015-03-25 19:42:03.451574||browserStarted||1||1
+2015-03-25 19:42:03.453720||browserStarted||0||0
+2015-03-25 19:42:03.460448||training-start||1
+2015-03-25 19:42:03.463543||training-start||0
+2015-03-25 19:42:11.837292||optedIn||1||1
+2015-03-25 19:42:11.898760||optedIn||0||0
+2015-03-25 19:42:20.775782||setGender=m||1||1
+2015-03-25 19:42:20.882470||setGender=f||0||0
+2015-03-25 19:42:29.215575||http://indeed.com||1||1
+2015-03-25 19:42:29.259332||http://indeed.com||0||0
+2015-03-25 19:42:38.215066||http://monster.com||1||1
+2015-03-25 19:42:43.155516||http://monster.com||0||0
+2015-03-25 19:42:49.524929||http://careerbuilder.com||1||1
+2015-03-25 19:42:56.244197||http://careerbuilder.com||0||0
+2015-03-25 19:42:58.624088||http://jobsearch.about.com||1||1
+2015-03-25 19:43:05.851970||http://jobsearch.about.com||0||0
+2015-03-25 19:43:11.124467||http://snagajob.com||1||1
+2015-03-25 19:43:13.134471||training-end||1
+2015-03-25 19:43:18.059130||http://snagajob.com||0||0
+2015-03-25 19:43:20.070264||training-end||0
+2015-03-25 19:43:45.093227||measurement-start||0
+2015-03-25 19:43:48.171921||measurement-start||1
+ad||0||0||2015-03-25 19:44:02.969575||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:44:02.969575||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:44:08.339070||loadtime||0:00:18.234215||0
+2015-03-25 19:44:08.352441||reload||0
+ad||1||1||2015-03-25 19:44:06.081140||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||1||1||2015-03-25 19:44:06.081140||A Home in Mumbai in 9999?||onemumbai.co.in/New-launch-Mulund||It's true! Pay Rs.9,999* save upto 7.5 lacs on 1, 2  3 BHK in Mulund
+2015-03-25 19:44:15.678393||loadtime||0:00:22.496239||1
+2015-03-25 19:44:15.693449||reload||1
+ad||1||1||2015-03-25 19:44:33.484293||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+ad||1||1||2015-03-25 19:44:33.484293||A Home in Mumbai in 9999?||onemumbai.co.in/New-launch-Mulund||It's true! Pay Rs.9,999* save upto 7.5 lacs on 1, 2  3 BHK in Mulund
+2015-03-25 19:44:40.999761||loadtime||0:00:20.296453||1
+2015-03-25 19:44:41.010535||reload||1
+ad||0||0||2015-03-25 19:44:35.837266||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:44:35.837266||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:44:48.113879||loadtime||0:00:34.747083||0
+2015-03-25 19:44:48.125341||reload||0
+ad||1||1||2015-03-25 19:44:59.441707||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+ad||1||1||2015-03-25 19:44:59.441707||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:45:11.997820||loadtime||0:00:25.975297||1
+2015-03-25 19:45:12.013556||reload||1
+ad||0||0||2015-03-25 19:45:06.454139||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:45:06.454139||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:45:14.286087||loadtime||0:00:21.150975||0
+2015-03-25 19:45:14.302262||reload||0
+ad||1||1||2015-03-25 19:45:30.041567||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+ad||0||0||2015-03-25 19:45:34.256018||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||1||1||2015-03-25 19:45:30.041567||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:45:41.688388||loadtime||0:00:24.663538||1
+2015-03-25 19:45:41.698973||reload||1
+ad||0||0||2015-03-25 19:45:34.256018||2015 Grants Available||www.grants.onlineschoolsearch.com||$5,730 Grants If Qualified. Online College Search Made Easy!
+2015-03-25 19:45:42.283316||loadtime||0:00:22.971032||0
+2015-03-25 19:45:42.297342||reload||0
+ad||1||1||2015-03-25 19:45:59.962617||I Stopped My Hair Loss||naturalwellbeing.com/hair-growth||"I Spend Thousands on Hair Growth Then I Found This $39 Solution".
+ad||0||0||2015-03-25 19:46:03.033539||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:46:03.033539||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:46:11.077346||loadtime||0:00:23.770837||0
+2015-03-25 19:46:11.088867||reload||0
+ad||1||1||2015-03-25 19:45:59.962617||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:46:13.939411||loadtime||0:00:27.227308||1
+2015-03-25 19:46:13.953397||reload||1
+ad||0||0||2015-03-25 19:46:31.021578||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:46:31.021578||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:46:46.576445||loadtime||0:00:30.474244||0
+2015-03-25 19:46:46.586554||reload||0
+ad||1||1||2015-03-25 19:46:32.538189||Packaging (Hiring)||packagingjobs.myjobhelper.com||Earn $18-$25 per hour. No Experience Required.
+ad||1||1||2015-03-25 19:46:32.538189||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:46:52.451383||loadtime||0:00:33.481323||1
+2015-03-25 19:46:52.460920||reload||1
+ad||1||1||2015-03-25 19:47:11.907485||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+ad||0||0||2015-03-25 19:47:08.048314||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:47:08.048314||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:47:28.456357||loadtime||0:00:36.859191||0
+2015-03-25 19:47:28.478785||reload||0
+ad||1||1||2015-03-25 19:47:11.907485||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:47:32.724593||loadtime||0:00:35.252575||1
+2015-03-25 19:47:32.742185||reload||1
+ad||0||0||2015-03-25 19:47:50.905398||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:47:50.905398||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:48:02.720937||loadtime||0:00:29.216542||0
+2015-03-25 19:48:02.740941||reload||0
+ad||1||1||2015-03-25 19:47:52.898697||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+ad||1||1||2015-03-25 19:47:52.898697||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:48:19.358071||loadtime||0:00:41.601836||1
+2015-03-25 19:48:19.367668||reload||1
+ad||0||0||2015-03-25 19:48:27.297199||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:48:27.297199||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:48:40.491368||loadtime||0:00:32.732672||0
+2015-03-25 19:48:40.510666||reload||0
+ad||1||1||2015-03-25 19:48:40.962922||1 Weird Cover Letter Tip?||jobsearchjimmy.com/SecretSentence||"They Laughed At My Resume, But When They Saw This, I Got The Job!"
+ad||1||1||2015-03-25 19:48:40.962922||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:48:59.352318||loadtime||0:00:34.963524||1
+2015-03-25 19:48:59.368580||reload||1
+ad||0||0||2015-03-25 19:49:02.731541||Strong Interview Answers||www.interviewsuccessformula.com||3 Things You Should Never, Ever Say in an Interview. Check Them Out!
+ad||0||0||2015-03-25 19:49:02.731541||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:49:25.618093||loadtime||0:00:40.092898||0
+2015-03-25 19:49:25.633925||reload||0
+2015-03-25 19:49:25.666851||measurement-end||0
+ad||1||1||2015-03-25 19:49:20.138302||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+ad||1||1||2015-03-25 19:49:20.138302||Free Resume Templates||resumehelp.com/FreeResumeTemplates||Proven and Effective Resumes. Build a Resume that Employers Love.
+2015-03-25 19:49:37.720961||loadtime||0:00:33.338645||1
+2015-03-25 19:49:37.733785||reload||1
+2015-03-25 19:49:37.744393||measurement-end||1
+assign||5||1||0
+2015-03-25 19:49:45.792136||browserStarted||0||1
+2015-03-25 19:49:45.792136||browserStarted||1||0
+2015-03-25 19:49:45.803525||training-start||1
+2015-03-25 19:49:45.804981||training-start||0
+2015-03-25 19:49:53.116884||optedIn||1||0
+2015-03-25 19:49:53.154286||optedIn||0||1
+2015-03-25 19:50:01.540434||setGender=m||1||0
+2015-03-25 19:50:01.629795||setGender=f||0||1
+2015-03-25 19:50:09.858682||http://indeed.com||1||0
+2015-03-25 19:50:09.973889||http://indeed.com||0||1
+2015-03-25 19:50:23.766912||http://monster.com||1||0
+2015-03-25 19:50:24.398538||http://monster.com||0||1
+2015-03-25 19:50:35.750563||http://careerbuilder.com||0||1
+2015-03-25 19:50:39.382990||http://careerbuilder.com||1||0
+2015-03-25 19:50:45.131140||http://jobsearch.about.com||0||1
+2015-03-25 19:50:48.814283||http://jobsearch.about.com||1||0
+2015-03-25 19:50:57.903768||http://snagajob.com||0||1
+2015-03-25 19:50:59.915997||training-end||1
+2015-03-25 19:51:21.843684||http://snagajob.com||1||0
+2015-03-25 19:51:23.857714||training-end||0
+2015-03-25 19:51:48.883719||measurement-start||0
+2015-03-25 19:51:49.958986||measurement-start||1
+ad||1||0||2015-03-25 19:52:09.968933||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||0||1||2015-03-25 19:52:07.181289||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:52:09.968933||Hiring Immediately||jobsflag.com||New Job Positions Available - Hiring Now – Apply
+2015-03-25 19:52:18.687182||loadtime||0:00:23.715188||1
+2015-03-25 19:52:18.698489||reload||1
+ad||0||1||2015-03-25 19:52:07.181289||Medical Billing Coding||educationconnection.com||Free Course Information. Study Medical Billing  Coding
+2015-03-25 19:52:20.098411||loadtime||0:00:26.200262||0
+2015-03-25 19:52:20.119207||reload||0
+ad||1||0||2015-03-25 19:52:38.321900||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+ad||1||0||2015-03-25 19:52:38.321900||Hiring Immediately||jobsflag.com||New Job Positions Available - Hiring Now – Apply
+2015-03-25 19:52:48.907273||loadtime||0:00:25.196649||1
+2015-03-25 19:52:48.929789||reload||1
+ad||0||1||2015-03-25 19:52:39.111672||Call India Cheaper||www.phoneindia.com||Only 0.6¢/Min, No Fees, No Expiry. 100% Quality. Try Today  Save!
+ad||0||1||2015-03-25 19:52:39.111672||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+2015-03-25 19:52:57.236717||loadtime||0:00:32.105136||0
+2015-03-25 19:52:57.248377||reload||0
+ad||1||0||2015-03-25 19:53:10.723974||Jobs For Seniors||candofinance.com/SeniorEmployment||Senior Employment Opportunities. Find Companies Hiring Now!
+ad||1||0||2015-03-25 19:53:10.723974||Free Resume Builder||resumehelp.com/FreeResumeBuilder||Build a Resume for Free. Resume Builder for All Job Levels!
+2015-03-25 19:53:18.304710||loadtime||0:00:24.358294||1
+2015-03-25 19:53:18.325122||reload||1

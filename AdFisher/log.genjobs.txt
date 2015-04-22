@@ -1,0 +1,47 @@
+config||2||2
+treatnames||female||male
+assign||0||1||0
+2015-04-22 17:56:04.331486||browserStarted||0||1
+2015-04-22 17:56:04.332596||training-start||1
+2015-04-22 17:56:04.338596||browserStarted||1||0
+2015-04-22 17:56:04.339340||training-start||0
+2015-04-22 17:56:12.926015||optedIn||1||0
+2015-04-22 17:56:13.098999||optedIn||0||1
+2015-04-22 17:56:21.864189||setGender=m||1||0
+2015-04-22 17:56:22.024874||setGender=f||0||1
+2015-04-22 17:56:30.423727||http://indeed.com||0||1
+2015-04-22 17:56:30.426229||http://indeed.com||1||0
+2015-04-22 17:56:48.317618||http://monster.com||0||1
+2015-04-22 17:56:50.555673||http://monster.com||1||0
+2015-04-22 17:56:58.385596||http://careerbuilder.com||0||1
+2015-04-22 17:57:00.763178||http://careerbuilder.com||1||0
+2015-04-22 17:57:07.189411||http://jobsearch.about.com||0||1
+2015-04-22 17:57:09.956162||http://jobsearch.about.com||1||0
+2015-04-22 17:57:15.088663||http://snagajob.com||1||0
+2015-04-22 17:57:17.090511||training-end||0
+2015-04-22 17:57:19.264478||http://snagajob.com||0||1
+2015-04-22 17:57:21.266793||training-end||1
+2015-04-22 17:57:46.271510||measurement-start||1
+2015-04-22 17:57:47.096545||measurement-start||0
+2015-04-22 17:58:02.748718||errorcollecting||0
+2015-04-22 17:58:05.962794||errorcollecting||1
+2015-04-22 17:58:43.771410||errorcollecting||0
+2015-04-22 17:59:20.862713||errorcollecting||1
+2015-04-22 17:59:41.547494||errorcollecting||0
+2015-04-22 17:59:50.382776||errorcollecting||1
+2015-04-22 17:59:50.383131||errorcollecting||0
+2015-04-22 17:59:55.395234||errorcollecting||0
+2015-04-22 17:59:55.398950||errorcollecting||1
+2015-04-22 18:00:00.399794||errorcollecting||0
+2015-04-22 18:00:00.403348||errorcollecting||1
+2015-04-22 18:00:05.404755||errorcollecting||0
+2015-04-22 18:00:05.407826||errorcollecting||1
+2015-04-22 18:00:10.410865||errorcollecting||0
+2015-04-22 18:00:10.413552||errorcollecting||1
+2015-04-22 18:00:15.416864||errorcollecting||0
+2015-04-22 18:00:15.419817||errorcollecting||1
+2015-04-22 18:00:20.421696||errorcollecting||0
+2015-04-22 18:00:20.424601||errorcollecting||1
+2015-04-22 18:00:20.425231||measurement-end||0
+2015-04-22 18:00:25.430022||errorcollecting||1
+2015-04-22 18:00:25.433561||measurement-end||1
